@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+torchvision
+faiss-cpu
+pillow
+requests
+numpy
